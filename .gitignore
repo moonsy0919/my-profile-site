@@ -30,7 +30,7 @@ out/
 *.sln
 
 # Claude Code
-.claude/
+.claude/settings.local.json
 
 # 로그
 *.log
